@@ -9,8 +9,7 @@ html, body{
 }
 
 body{
-    background: #833AB4;
-    background: linear-gradient(90deg, rgba(131, 58, 180, 1) 0%, rgba(253, 29, 29, 1) 50%, rgba(252, 176, 69, 1) 100%);
+    background: linear-gradient(to right, #f5444a, #fad0c4);
     font-family: Arial, sans-serif;
 }
 
@@ -23,7 +22,7 @@ h1{
 #box{
     height: 200px;
     width: 200px;
-    background-color: red;
+    background-color: rgb(16, 219, 30);
     margin: auto;
     margin-top: 20px;
 }
